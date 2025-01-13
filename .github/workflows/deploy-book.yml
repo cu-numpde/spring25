@@ -87,6 +87,7 @@ jobs:
       with:
         path: ~/.julia
         key: ${{ steps.cache-julia.outputs.cache-primary-key }}
+    - name: Build website
       run: jupyter-book build .
     - name: Upload pages artifact
       if: ${{ github.ref == 'refs/heads/main' }}
