@@ -99,7 +99,6 @@ jobs:
 
   # Deploy pages
   deploy:
-    needs: CI
     if: ${{ github.ref == 'refs/heads/main' }}
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
