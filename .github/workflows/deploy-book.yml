@@ -32,7 +32,6 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        jupyter contrib nbextension install --user
 
     - name: Read Julia version
       id: read_toml
@@ -88,6 +87,8 @@ jobs:
       with:
         path: ~/.julia
         key: ${{ steps.cache-julia.outputs.cache-primary-key }}
+    - name: Install kernel
+      run: ipython kernel install --name "julia-1.11" --user
     - name: Build website
       run: jupyter-book build .
     - name: Upload pages artifact
