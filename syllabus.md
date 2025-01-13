@@ -18,6 +18,10 @@ Meeting Time: MW 5:05-6:20 in ECEE 283
 
 * Office hours: 
 
+Every other Wednesday 3:50-4:50PM, starting 01/22. Two locations:
+- Fruzsina: ECOT 614
+- Corey: ECCS 114E (conference room inside CSEL)
+
 :::{tip}
 Chat sessions are important for asking questions, solving problems, discussion of broader academic and career strategy, and to provide feedback so I can make the class serve your needs and those of people with similar experiences and interests.
 :::
@@ -51,14 +55,21 @@ Upon completing this course, students possess an ability to
 * predict scaling challenges and computational costs when solving increasingly complex problems or attempting to meet real-time requirements
 * interpret research papers and begin research in the field
 
-%## Ungrading
-%
-%I'm here to be your partner, not your adversary, and I promise not to waste your time. 
-%So I won't grade (score) your work, though I will write feedback and meet with you to reflect and discuss strategy for growth.
-%Why? TL;DR: {download}`Evidence <downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf>` shows that scoring undermines the value of writing comments.
-%
-%![Butler (1988) Table 1](img/Butler1988-Table1.png)
+## Grading
 
+I'm here to be your partner, not your adversary, and I promise not to waste your time. The assignments in the class all serve the purpose of helping you in your future work and research. 
+
+Your grade will be made up of the following assigments:
+- Homeworks, to be submitted every 2 weeks: 30% total.
+- Community project (second half of the semester): 60% total.
+    - Community analysis proposal (7.5%): you'll write a one-page proposal (based on a template) where you identify the project you'll contribute to and find some information on it. 
+    - Community analysis presentation (7.5%): a 5-minute presentation on your contirbution ideas.
+    - Contribution proposal (15%): a more detailed written proposal of your contribution that you'll attempt to communicate upstream.
+    - Your contribution itself (15%).
+    - Contribution presentation (7.5%): lightning presentations and breakout group discussions about your contributions. 
+- Portfolio: 10%. This is a journal to keep yourself organized, keep track of your goals, and collect ideas that relate to the class. It will take the form of a template repository, with detailed instructions and an example.
+
+We will meet to reflect on your community project and portfolio. I will give constructive feedback and you will propose a grade.
 
 ## GitHub
 
@@ -96,46 +107,45 @@ Graduate students in computer science or simulation-based science or engineering
 * [Trefethen, *Spectral Methods in MATLAB*](https://people.maths.ox.ac.uk/trefethen/spectral.html). (CU students can [download free from SIAM](http://epubs.siam.org/doi/book/10.1137/1.9780898719598))
 * Elman, Silvester, Wathen, *Finite Elements and Fast Iterative Solvers with Applications in Incompressible Fluid Dynamics*
 
-## Classroom Behavior
+## Honor Code
 
-Both students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote or online. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy.  For more information, see the policies on classroom behavior and the Student Conduct & Conflict Resolution policies.
+All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the Honor Code may include but are not limited to: plagiarism (including use of paper writing services or technology [such as essay bots]), cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. Understanding the course's syllabus is a vital part in adhering to the Honor Code.
+All incidents of academic misconduct will be reported to Student Conduct & Conflict Resolution: StudentConduct@colorado.edu. Students found responsible for violating the Honor Code will be assigned resolution outcomes from the Student Conduct & Conflict Resolution as well as be subject to academic sanctions from the faculty member. Visit Honor Code for more information on the academic integrity policy. 
 
-## Requirements for COVID-19
+## Accommodation for Disabilities, Temporary Medical Conditions, and Medical Isolation
 
-As a matter of public health and safety, all members of the CU Boulder community and all visitors to campus must follow university, department and building requirements and all public health orders in place to reduce the risk of spreading infectious disease. CU Boulder currently requires COVID-19 vaccination and boosters for all faculty, staff and students. Students, faculty and staff must upload proof of vaccination and boosters or file for an exemption based on medical, ethical or moral grounds through the MyCUHealth portal.
+If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the Disability Services website. Contact Disability Services at 303-492-8671 or DSinfo@colorado.edu  for further assistance.  If you have a temporary medical condition, see Temporary Medical Conditions on the Disability Services website.
+If you have a temporary illness, injury or required medical isolation for which you require adjustment,
+please contact the instructor in person or via fruzsina.agocs@colorado.edu (you are not required to state the nature of your illness/injury or provide a doctor’s note).
 
-The CU Boulder campus is currently mask-optional. However, if public health conditions change and masks are again required in classrooms, students who fail to adhere to masking requirements will be asked to leave class, and students who do not leave class when asked or who refuse to comply with these requirements will be referred to Student Conduct and Conflict Resolution. For more information, see the policy on classroom behavior and the Student Code of Conduct. If you require accommodation because a disability prevents you from fulfilling these safety measures, please follow the steps in the “Accommodation for Disabilities” statement on this syllabus.
+## Accommodation for Religious Obligations
 
-If you feel ill and think you might have COVID-19, if you have tested positive for COVID-19, or if you are unvaccinated or partially vaccinated and have been in close contact with someone who has COVID-19, you should stay home and follow the further guidance of the Public Health Office (contacttracing@colorado.edu). If you are fully vaccinated and have been in close contact with someone who has COVID-19, you do not need to stay home; rather, you should self-monitor for symptoms and follow the further guidance of the Public Health Office (contacttracing@colorado.edu).
+Campus policy requires faculty to provide reasonable accommodations for students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. Please communicate the need for a religious accommodation in a timely manner by informing the instructor in person or in e-mail.
 
-## Accommodation for Disabilities
-
-If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the Disability Services website. Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance.
-
-If you have a temporary medical condition or required medical isolation for which you require accommodation, let Jed know as soon as possible. Also see [Temporary Medical Conditions](https://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) on the Disability Services website.
+See the campus policy regarding religious observances for full details.
 
 ## Preferred Student Names and Pronouns
 
 CU Boulder recognizes that students' legal information doesn't always align with how they identify. Students may update their preferred names and pronouns via the student portal; those preferred names and pronouns are listed on instructors' class rosters. In the absence of such updates, the name that appears on the class roster is the student's legal name.
 
-## Honor Code
+## Classroom Behavior
 
-All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code academic integrity policy. Violations of the Honor Code may include, but are not limited to: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. All incidents of academic misconduct will be reported to the Honor Code (honor@colorado.edu); 303-492-5550). Students found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found on the Honor Code website.
+Students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote, or online. Failure to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, marital status, political affiliation, or political philosophy.
+For more information, see the classroom behavior policy, the Student Code of Conduct, and the Office of Institutional Equity and Compliance.
 
 ## Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
 
-The University of Colorado Boulder (CU Boulder) is committed to fostering an inclusive and welcoming learning, working, and living environment. CU Boulder will not tolerate acts of sexual misconduct (harassment, exploitation, and assault), intimate partner violence (dating or domestic violence), stalking, or protected-class discrimination or harassment by or against members of our community. Individuals who believe they have been subject to misconduct or retaliatory actions for reporting a concern should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or email cureport@colorado.edu. Information about OIEC, university policies, reporting options, and the campus resources can be found on the OIEC website.
-
-Please know that faculty and graduate instructors have a responsibility to inform OIEC when made aware of incidents of sexual misconduct, dating and domestic violence, stalking, discrimination, harassment and/or related retaliation, to ensure that individuals impacted receive information about their rights, support resources, and reporting options.
-
-## Religious Holidays
-
-Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance.  This class is flexible in many ways, but I would appreciate if you let me know of any conflicts.
-
-See the campus policy regarding religious observances for full details.
+CU Boulder is committed to fostering an inclusive and welcoming learning, working, and living environment. University policy prohibits protected-class discrimination and harassment, sexual misconduct (harassment, exploitation, and assault), intimate partner abuse (dating or domestic violence), stalking, and related retaliation by or against members of our community on- and off-campus. The Office of Institutional Equity and Compliance (OIEC) addresses these concerns, and individuals who have been subjected to misconduct can contact OIEC at 303-492-2127 or email CUreport@colorado.edu. Information about university policies, reporting options, and OIEC support resources including confidential services can be found on the OIEC website.
+Please know that faculty and graduate instructors are required to inform OIEC when they are made aware of incidents related to these concerns regardless of when or where something occurred. This is to ensure that individuals impacted receive outreach from OIEC about their options and support resources. To learn more about reporting and support for a variety of concerns, visit the Don’t Ignore It page.
 
 ## Mental Health and Wellness
 
-The University of Colorado Boulder is committed to the well-being of all students. If you are struggling with personal stressors, mental health or substance use concerns that are impacting academic or daily life, please contact [Counseling and Psychiatric Services (CAPS)](https://www.colorado.edu/counseling/) located in C4C or call (303) 492-2277, 24/7.
+The University of Colorado Boulder is committed to the well-being of all students. If you are struggling with personal stressors, mental health or substance use concerns that are impacting academic or daily life, please contact Counseling and Psychiatric Services (CAPS) located in C4C or call (303) 492-2277, 24/7.
+Free and unlimited telehealth is also available through Academic Live Care. The Academic Live Care site also provides information about additional wellness services on campus that are available to students.
 
-Free and unlimited telehealth is also available through [Academic Live Care](https://www.colorado.edu/health/academiclivecare). The Academic Live Care site also provides information about additional wellness services on campus that are available to students.
+## Acceptable Use of AI in this Class
+
+You may use generative AI in this course, but I ask that you do so
+- carefully, always checking and testing their output and not accepting it unconditionally,
+- as if you were consulting a colleague, i.e. cite and document your usage (the tool, the purpose of use, and the prompt). 
+Generally, gen AI use in this course will not enhance your learning, nor serve the topic at hand.
