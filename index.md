@@ -4,7 +4,7 @@ Welcome to **CSCI-5636: Numerical Solution of Partial Differential Equations**
 
 :::{admonition} Logistics
 * Meeting Time: MW 5:05-6:20pm in ECEE 283
-* Office hours: 
+* Office hours: Every other Wednesday starting 01/22, 3:50-4:50pm, ECCS 114E (inside CSEL) and ECOT 614
 * [Canvas page](https://canvas.colorado.edu/courses/118544)
 :::
 
