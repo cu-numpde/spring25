@@ -6,14 +6,6 @@ CU Boulder: CSCI 5636-002 (Spring 2025)
 
 Meeting Time: MW 5:05-6:20 in ECEE 283
 
-%### Remote access via Zoom
-%
-%* Join via web browser: https://cuboulder.zoom.us/j/91936219432
-
-%### Recordings
-%
-%Recordings will be available in Canvas Mediasite.
-
 ### Instructor: [Fruzsina Agocs](https://fruzsinaagocs.github.io), [`fruzsina.agocs@colorado.edu`](mailto:fruzsina.agocs@colorado.edu), ECOT 614
 
 * Office hours: 
@@ -65,7 +57,7 @@ Your grade will be made up of the following assigments:
     - Community analysis proposal (7.5%): you'll write a one-page proposal (based on a template) where you identify the project you'll contribute to and find some information on it. 
     - Community analysis presentation (7.5%): a 5-minute presentation on your contirbution ideas.
     - Contribution proposal (15%): a more detailed written proposal of your contribution that you'll attempt to communicate upstream.
-    - Your contribution itself (15%).
+    - Your contribution itself (22.5%).
     - Contribution presentation (7.5%): lightning presentations and breakout group discussions about your contributions. 
 - Portfolio: 10%. This is a journal to keep yourself organized, keep track of your goals, and collect ideas that relate to the class. It will take the form of a template repository, with detailed instructions and an example.
 
