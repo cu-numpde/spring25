@@ -107,7 +107,7 @@ jobs:
       pages: write
       id-token: write
     runs-on: ubuntu-latest
-    needs: build
+    needs: build-book
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
