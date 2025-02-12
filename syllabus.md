@@ -10,9 +10,9 @@ Meeting Time: MW 5:05-6:20 in ECEE 283
 
 * Office hours: 
 
-Every other Wednesday 3:50-4:50PM, starting 01/22. Two locations:
-- Fruzsina: ECOT 614
-- Corey: ECCS 114E (conference room inside CSEL)
+Every Wednesday, but alternating times and locations:
+- Fruzsina: every other Wednesday starting 01/22, 3:50-4:50pm, ECOT 614
+- Corey: every other Wednesday starting 01/15, 2-3pm, ECCS 114H (conference room inside CSEL)
 
 :::{tip}
 Chat sessions are important for asking questions, solving problems, discussion of broader academic and career strategy, and to provide feedback so I can make the class serve your needs and those of people with similar experiences and interests.
