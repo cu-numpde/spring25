@@ -16,3 +16,4 @@ chapters:
   - file: slides/2025-02-05-coefficients.ipynb
   - file: slides/2025-02-10-advection.ipynb
   - file: slides/2025-02-12-sparsity.ipynb
+  - file: slides/2025-02-17-nonlinear.ipynb
