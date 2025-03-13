@@ -23,3 +23,4 @@ chapters:
   - file: slides/2025-03-03-tr-stiffness.ipynb
   - file: slides/2025-03-05-runge-kutta.ipynb
   - file: slides/2025-03-10-2d.ipynb
+  - file: slides/2025-03-12-factorization.ipynb
