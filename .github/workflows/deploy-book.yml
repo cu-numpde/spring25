@@ -68,7 +68,7 @@ jobs:
     - name: Install kernel
       run: ipython kernel install --name "julia-1.11" --user
     - name: Build website
-      run: jupyter-book build .
+      run: jupyter-book build . && cat /home/runner/work/spring25/spring25/_build/html/reports/slides/2025-01-15-finite-differences.err.log
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       id: deployment
