@@ -27,3 +27,4 @@ chapters:
   - file: slides/2025-03-17-fact-ls.ipynb
   - file: slides/2025-03-19-ls.ipynb
   - file: slides/2025-03-31-iterative.ipynb
+  - file: slides/2025-04-02-gmres.ipynb
