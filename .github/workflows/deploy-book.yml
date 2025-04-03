@@ -55,17 +55,7 @@ jobs:
       uses: julia-actions/setup-julia@v2
       with:
         version: ${{ steps.read_toml.outputs.value }}
-    - name: Restore Julia packages
-      uses: actions/cache/restore@v4
-      if: ${{ runner.environment == 'github-hosted' }}
-      id: cache-julia
-      with:
-        path: ~/.julia
-        key: ${{ steps.hash.outputs.ver }}-${{ steps.hash.outputs.value }}
-        restore-keys: |
-          ${{ steps.hash.outputs.ver }}-
     - name: Install Julia packages
-      if: ${{ runner.environment == 'self-hosted' || steps.cache-julia.outputs.cache-hit != 'true' }}
       shell: julia --color=yes {0}
       env:
         JUPYTER: 'jupyter'
@@ -75,22 +65,10 @@ jobs:
         Pkg.activate(".")
         Pkg.instantiate()
         Pkg.precompile()
-    - name: Clean Julia package directory
-      if: ${{ runner.environment == 'github-hosted' && steps.cache-julia.outputs.cache-hit != 'true' }}
-      shell: julia --color=yes {0}
-      run: |
-        using Pkg, Dates
-        Pkg.gc(collect_delay=Day(0))
-    - name: Save Julia packages
-      uses: actions/cache/save@v4
-      if: ${{ runner.environment == 'github-hosted' && steps.cache-julia.outputs.cache-hit != 'true' }}
-      with:
-        path: ~/.julia
-        key: ${{ steps.cache-julia.outputs.cache-primary-key }}
     - name: Install kernel
       run: ipython kernel install --name "julia-1.11" --user
     - name: Build website
-      run: jupyter-book build .
+      run: jupyter-book build . && cat /home/runner/work/spring25/spring25/_build/html/reports/slides/2025-01-15-finite-differences.err.log
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       id: deployment
