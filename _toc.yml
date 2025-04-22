@@ -31,3 +31,5 @@ chapters:
   - file: slides/2025-04-07-precon-dd.ipynb
   - file: slides/2025-04-09-multigrid.ipynb
   - file: slides/2025-04-14-amg.ipynb
+  - file: slides/2025-04-16-petsc.ipynb
+  - file: slides/2025-04-21-galerkin.ipynb
